@@ -3,7 +3,9 @@ title: Jaeseok Cho
 role: PhD Candidate
 bio: My research interests includes
 interests:
-  - CivilWars
+  - Civil Wars
+  - Interstate Conflicts
+  - International Cooperation
 social:
   - icon: envelope
     icon_pack: fas
