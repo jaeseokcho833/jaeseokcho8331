@@ -1,6 +1,7 @@
 ---
 title: Jaeseok Cho
 role: PhD Candidate
+avatar_filename: jaeseok-cho.jpg
 bio: My research interests includes
 interests:
   - Civil Wars
