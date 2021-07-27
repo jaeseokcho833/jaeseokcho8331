@@ -31,7 +31,7 @@ education:
       institution: University of Illinois Urbana-Champaign
       year: ""
     - course: BA in International Development Studies
-      institution: University of California, Los Angeles
+      institution: University of California Los Angeles
       year: ""
 email: ""
 superuser: true
