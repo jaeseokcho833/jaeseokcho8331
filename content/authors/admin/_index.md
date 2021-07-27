@@ -3,7 +3,7 @@ title: Jaeseok Cho
 role: PhD Candidate
 bio: My research interests includes
 interests:
-  - Civil Wars
+  - CivilWars
 social:
   - icon: envelope
     icon_pack: fas
@@ -21,8 +21,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Illinois at Urbana-Champaign
+    url: ""
 education:
   courses:
     - course: PhD in Artificial Intelligence
